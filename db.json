@@ -1,7 +1,22 @@
 {
+<<<<<<< HEAD
    "EntityId":"1",
    "Name":"abc",
    "Category":"PEP",
    "Source":"Dow Jones",
    "MatchType":"Fuzzy"
+=======
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+>>>>>>> 9d66a167d79698c5d6f43387dc87adc962f91eea
 }
