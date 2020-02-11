@@ -1,0 +1,7 @@
+{
+   "EntityId":"1",
+   "Name":"abc",
+   "Category":"PEP",
+   "Source":"Dow Jones",
+   "MatchType":"Fuzzy"
+}
