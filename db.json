@@ -1,11 +1,4 @@
 {
-<<<<<<< HEAD
-   "EntityId":"1",
-   "Name":"abc",
-   "Category":"PEP",
-   "Source":"Dow Jones",
-   "MatchType":"Fuzzy"
-=======
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
@@ -18,5 +11,4 @@
   "profile": {
     "name": "typicode"
   }
->>>>>>> 9d66a167d79698c5d6f43387dc87adc962f91eea
 }
