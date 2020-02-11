@@ -6,6 +6,13 @@
          "Category":"PEP",
          "Source":"Dow Jones",
          "MatchType":"Fuzzy"
+      },
+      {
+         "EntityId":"2",
+         "Name":"efg",
+         "Category":"PEP",
+         "Source":"Local country",
+         "MatchType":"Exact Match"
       }
    ]
 }
