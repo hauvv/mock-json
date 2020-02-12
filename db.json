@@ -1,18 +1,34 @@
 {
-   "data":[
-      {
-         "EntityId":"1",
-         "Name":"abc",
-         "Category":"PEP",
-         "Source":"Dow Jones",
-         "MatchType":"Fuzzy"
-      },
-      {
-         "EntityId":"2",
-         "Name":"efg",
-         "Category":"PEP",
-         "Source":"Local country",
-         "MatchType":"Exact Match"
-      }
-   ]
+   "status":{
+      "code":"0000",
+      "message":"Success"
+   },
+   "data":{
+      "vendors":[
+         {
+            "id":125,
+            "name":"Dowjones",
+            "categories":[
+               {
+                  "id":125,
+                  "name":"cat 1"
+               },
+               {
+                  "id":126,
+                  "name":"cat 2"
+               }
+            ]
+         },
+         {
+            "id":2,
+            "name":"VN",
+            "categories":[
+               {
+                  "id":2,
+                  "name":"VN"
+               }
+            ]
+         }
+      ]
+   }
 }
